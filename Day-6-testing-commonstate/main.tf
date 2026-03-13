@@ -1,4 +1,4 @@
 resource "aws_s3_bucket" "name" {
-    bucket = "wertyuiopxcvbhjk"
+    bucket = "dev-test-nareshit"
   
 }
